@@ -4,11 +4,10 @@ usePopcorn is a movie search and watchlist application built with React.js as a 
 
 Users can search for their favorite movies, explore movie details, rate movies, and maintain a personal watched-movies list.
 
-# 🔗 Links
+### 🔗 Links
 
-Live Demo: usepopcorn-site.netlify.app
-
-GitHub Repository: Fizza721/usePopcorn
+- **Live Demo:** [View Project](https://usepopcorn-site.netlify.app/)
+- **GitHub Repository:** [View Source Code](https://github.com/Fizza721/usePopcorn)
 
 ### Features
 
